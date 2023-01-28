@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: rgb(0, 0, 0);
+}
+
+.topo{
+    background-color: #15398D;
+    color: white;
+    font-size: 30px;
+}
+
+.calc{
+    width: 100%;
+}
+
+.calc-config{
+    width: 80%;
+    height: auto;
+    background-color: rgba(0, 198, 248, 0.13);
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid rgba(0, 198, 248, 0.13);
+    border-radius: 7px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.aparecer{
+    background-color: white;
+    height: auto;
+    
+}
+
+.tabela{
+    width: 100%;
+   
+}
+
+th{
+    border: 1px solid black;
+    width: auto;
+}
+
+.tabelaResultados{
+    width: 100%;
+
+}
